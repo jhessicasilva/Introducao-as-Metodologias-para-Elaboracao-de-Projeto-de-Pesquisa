@@ -20,8 +20,8 @@ O diretório Tarefa2 contém o Notebook e o Conjunto de dados utilizados para a 
 O diretório Tarefa3 contém o Notebook e os conjuntos de dados utilizados para a realização da Tarefa 3. 
 
 > Os notebooks presentes nesse diretório foram feitos utilizando a ferramente Google Colab e podem ser acessados via: 
-> * Tarefa 2:
-> * Tarefa 3:
+> * Tarefa 2: https://colab.research.google.com/drive/1TkZBFf3NPD6YUrZVMerXok6VFuLOrLNW?usp=sharing
+> * Tarefa 3: https://colab.research.google.com/drive/1orMCA09qBWkXmXg67g-aZCu9wnAnFSUl?usp=sharing
 > 
 > Porém, os notebooks também podem ser executados via Jupyter notebook.
 
