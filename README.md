@@ -10,7 +10,7 @@ Este repositório está organizado da seguinte forma:
 graph LR
 A[MO911] --> B[Tarefa2]
 A --> C[Tarefa3]
-B --> D(Conjunto de dados: )
+B --> D(Conjunto de dados: diabetes.csv)
 B --> E(Notebook: T2_MO911.ipynb)
 C --> F(Conjuntos de dados: bp.csv e paired.csv)
 C --> G(Notebook: T3_MO911.ipynb)
